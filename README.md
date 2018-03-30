@@ -11,3 +11,7 @@ Commited localy.
 ## Deployment
 
 ## How to Contribute
+
+### Copyright
+
+2018 Git.Training

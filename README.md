@@ -1,6 +1,7 @@
 # Starter Web Project
 
-Pushed remote. Adding a line for rebasing example.
+Pushed remote. Adding a line for rebasing example, then
+more changes on myfeature branch too.
 
 ## Introduction
 

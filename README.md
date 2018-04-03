@@ -1,7 +1,7 @@
 # Starter Web Project
 
 Pushed remote. Adding a line for rebasing example, then
-more changes on myfeature branch too.
+more changes on myfeature branch too. Updateing for emergency fix after stashing.
 
 ## Introduction
 
